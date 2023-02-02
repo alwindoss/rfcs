@@ -1,7 +1,7 @@
 - Feature Name: (fill me in with a unique ident, `my_awesome_feature`)
 - Start Date: (fill me in with today's date, YYYY-MM-DD)
 - RFC PR: [alwindoss/rfcs#0000](https://github.com/alwindoss/rfcs/pull/0000)
-- Rust Issue: [alwindoss/rust#0000](https://github.com/alwindoss/rust/issues/0000)
+- Rust Issue: [alwindoss/project-name#0000](https://github.com/alwindoss/project-name/issues/0000)
 
 # Summary
 [summary]: #summary
